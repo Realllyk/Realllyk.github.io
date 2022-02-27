@@ -1,0 +1,59 @@
+# Site Settings
+title: Realllyk Blog
+tagline: Realllyk Blog
+email: 1120527990@qq.com
+description: >
+  The site for my own blog of code.
+baseurl: ""
+url: "https://Realllyk.github.io"
+permalink: pretty
+
+paginate: 6
+paginate_path: "/page:num"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "C.S. Rhymes"
+      layout: post
+      image: /img/home.jpg
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
+collections:
+  authors:
+    output: true
+
+remote_theme: chrisrhymes/mere-blog-theme
