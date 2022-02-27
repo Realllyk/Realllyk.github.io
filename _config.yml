@@ -4,7 +4,7 @@ tagline: Realllyk Blog
 email: 1120527990@qq.com
 description: >
   The site for my own blog of code.
-baseurl: ""
+baseurl: 
 url: "https://Realllyk.github.io"
 permalink: pretty
 
