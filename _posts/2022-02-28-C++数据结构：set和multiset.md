@@ -1,3 +1,11 @@
+---
+
+title: C++：pair
+
+author: Realllyk
+
+---
+
 # C++数据结构：set和multiset
 
 1. 定义：

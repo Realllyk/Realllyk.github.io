@@ -1,3 +1,11 @@
+---
+
+title: C++：pair
+
+author: Realllyk
+
+---
+
 # C++数据结构：优先队列priority queue
 
 1. 头文件：```#include<queue>```
@@ -14,9 +22,9 @@
 
    1.  *top*： 访问队头元素
    2.  *empty* ：队列是否为空
-   3. *size* ： 返回队列内元素个数
+   3.  *size* ： 返回队列内元素个数
    4.  *push*： 插入元素到队尾 (并排序)
-   5. *emplace*： 原地构造一个元素并插入队列
-   6. *pop*： 弹出队头元素
-   7. *swap*： 交换内容
+   5.  *emplace*： 原地构造一个元素并插入队列
+   6.  *pop*： 弹出队头元素
+   7.  *swap*： 交换内容
 

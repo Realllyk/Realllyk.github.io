@@ -1,3 +1,11 @@
+---
+
+title: C++：pair
+
+author: Realllyk
+
+---
+
 # C++： pair
 
 1. 头文件：```#include<utility>```

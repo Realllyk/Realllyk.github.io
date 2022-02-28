@@ -1,3 +1,11 @@
+---
+
+title: C++：pair
+
+author: Realllyk
+
+---
+
 # C++: tuple和tie
 
 1. 头文件：```include<tuple>```
