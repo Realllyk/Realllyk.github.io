@@ -1,6 +1,5 @@
 ---
-
-title: C++：pair
+title: C++结构体struct：tuple和tie
 
 author: Realllyk
 

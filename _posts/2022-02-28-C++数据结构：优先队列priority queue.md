@@ -1,6 +1,5 @@
 ---
-
-title: C++：pair
+title: C++数据结构：优先队列priority queue
 
 author: Realllyk
 

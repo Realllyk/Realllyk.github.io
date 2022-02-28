@@ -1,6 +1,5 @@
 ---
-
-title: C++：pair
+title: C++结构体struct：pair
 
 author: Realllyk
 
