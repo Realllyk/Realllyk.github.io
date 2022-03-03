@@ -3,6 +3,7 @@ title: C++数据结构：优先队列priority queue
 
 author: Realllyk
 
+image: /img/C++数据结构：优先队列priority queue.jpg
 ---
 
 # C++数据结构：优先队列priority queue

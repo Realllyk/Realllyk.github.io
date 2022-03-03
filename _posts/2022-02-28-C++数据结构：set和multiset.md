@@ -3,6 +3,7 @@ title: C++数据结构：set和multiset
 
 author: Realllyk
 
+image: /img/C++数据结构：set和multiset.jpg
 ---
 
 # C++数据结构：set和multiset
