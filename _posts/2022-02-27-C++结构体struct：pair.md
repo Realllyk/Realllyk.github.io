@@ -3,6 +3,8 @@ title: C++结构体struct：pair
 
 author: Realllyk
 
+image: /img/C++结构体struct：pair.jpg
+
 ---
 
 # C++： pair
