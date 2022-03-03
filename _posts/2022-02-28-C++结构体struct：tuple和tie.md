@@ -3,6 +3,7 @@ title: C++结构体struct：tuple和tie
 
 author: Realllyk
 
+image: /img/C++结构体struct：tuple和tie.jpg
 ---
 
 # C++: tuple和tie
